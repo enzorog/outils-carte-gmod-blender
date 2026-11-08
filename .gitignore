@@ -1,0 +1,12 @@
+# contenus de jeux (jamais publiés) et fichiers générés
+*.blend
+*.blend1
+blender/textures_jeu/
+blender/textures/
+blender/modeles_jeu/
+blender/textures_gmod.json
+materials/
+models/
+maps/
+source/*.vmf
+__pycache__/
